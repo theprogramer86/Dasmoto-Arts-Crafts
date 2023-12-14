@@ -7,7 +7,7 @@ body{
 /* header */
 
 header h1 {
-    background: url(/images/pattern.webp);
+    background: url(images/pattern.webp);
     background-size: cover;
     font-size: 100px;
     font-weight: bold;
