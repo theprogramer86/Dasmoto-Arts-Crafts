@@ -1,0 +1,54 @@
+body{
+    font-family: Helvetica;
+}
+
+
+
+/* header */
+
+header h1 {
+    background: url(/images/pattern.webp);
+    background-size: cover;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+
+/* main */
+
+section h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+section img{
+    width: 170px;
+    height: auto;
+}
+
+section h3 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+section p {
+    font-size: 12px;
+}
+
+section p span {
+    color: blue;
+    font-weight: bold;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+.frames h2 {
+    background-color: lightcoral;
+}
+.paint h2 {
+    background-color: skyblue;
+}
